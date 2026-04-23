@@ -1,0 +1,10 @@
+Kaktusz;Mammillaria gracilis;14;2026-04-01
+Orchidea;Phalaenopsis amabilis;5;2026-04-08
+Rózsa;Rosa gallica;3;2026-04-12
+Muskátli;Pelargonium zonale;4;2026-04-09
+Áloe;Aloe vera;10;2026-04-10
+Tulipán;Tulipa gesneriana;7;2026-04-05
+Begónia;Begonia semperflorens;4;2026-04-13
+Ciklámen;Cyclamen persicum;5;2026-04-08
+Jácint;Hyacinthus orientalis;6;2026-04-06
+Napraforgó;Helianthus annuus;2;2026-04-13

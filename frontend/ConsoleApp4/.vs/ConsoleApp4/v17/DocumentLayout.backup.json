@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kopocsy.Bence.Mate\\source\\repos\\ConsoleApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E42379-97B4-43FD-8338-270804F8F87A}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\kopocsy.bence.mate\\source\\repos\\consoleapp4\\consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E42379-97B4-43FD-8338-270804F8F87A}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E42379-97B4-43FD-8338-270804F8F87A}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\kopocsy.bence.mate\\source\\repos\\consoleapp4\\consoleapp4\\serverconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E42379-97B4-43FD-8338-270804F8F87A}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\serverconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E42379-97B4-43FD-8338-270804F8F87A}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\kopocsy.bence.mate\\source\\repos\\consoleapp4\\consoleapp4\\serverresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E42379-97B4-43FD-8338-270804F8F87A}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\serverresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E42379-97B4-43FD-8338-270804F8F87A}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\kopocsy.bence.mate\\source\\repos\\consoleapp4\\consoleapp4\\airplanes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E42379-97B4-43FD-8338-270804F8F87A}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\airplanes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E42379-97B4-43FD-8338-270804F8F87A}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\kopocsy.bence.mate\\source\\repos\\consoleapp4\\consoleapp4\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E42379-97B4-43FD-8338-270804F8F87A}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E42379-97B4-43FD-8338-270804F8F87A}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\kopocsy.bence.mate\\source\\repos\\consoleapp4\\consoleapp4\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E42379-97B4-43FD-8338-270804F8F87A}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\Kopocsy.Bence.Mate\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Token.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Token.cs",
+              "ToolTip": "C:\\Users\\Kopocsy.Bence.Mate\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Token.cs",
+              "RelativeToolTip": "ConsoleApp4\\Token.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T09:13:30.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServerConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Kopocsy.Bence.Mate\\source\\repos\\ConsoleApp4\\ConsoleApp4\\ServerConnection.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\ServerConnection.cs",
+              "ToolTip": "C:\\Users\\Kopocsy.Bence.Mate\\source\\repos\\ConsoleApp4\\ConsoleApp4\\ServerConnection.cs",
+              "RelativeToolTip": "ConsoleApp4\\ServerConnection.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T09:05:12.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Kopocsy.Bence.Mate\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Users.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Users.cs",
+              "ToolTip": "C:\\Users\\Kopocsy.Bence.Mate\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Users.cs",
+              "RelativeToolTip": "ConsoleApp4\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T09:03:19.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Airplanes.cs",
+              "DocumentMoniker": "C:\\Users\\Kopocsy.Bence.Mate\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Airplanes.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Airplanes.cs",
+              "ToolTip": "C:\\Users\\Kopocsy.Bence.Mate\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Airplanes.cs",
+              "RelativeToolTip": "ConsoleApp4\\Airplanes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T09:02:09.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kopocsy.Bence.Mate\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Program.cs",
+              "ToolTip": "C:\\Users\\Kopocsy.Bence.Mate\\source\\repos\\ConsoleApp4\\ConsoleApp4\\Program.cs",
+              "RelativeToolTip": "ConsoleApp4\\Program.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAEwGMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T09:01:50.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServerResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Kopocsy.Bence.Mate\\source\\repos\\ConsoleApp4\\ConsoleApp4\\ServerResponse.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\ServerResponse.cs",
+              "ToolTip": "C:\\Users\\Kopocsy.Bence.Mate\\source\\repos\\ConsoleApp4\\ConsoleApp4\\ServerResponse.cs",
+              "RelativeToolTip": "ConsoleApp4\\ServerResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T09:14:23.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
