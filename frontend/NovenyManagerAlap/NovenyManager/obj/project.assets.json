@@ -76,11 +76,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kopocsy.Bence.Mate\\Desktop\\próbavizsga\\NovenyManagerAlap\\NovenyManager\\NovenyManager.csproj",
+      "projectUniqueName": "C:\\Users\\Kopocsy.Bence.Mate\\Desktop\\próbavizsga\\frontend\\NovenyManagerAlap\\NovenyManager\\NovenyManager.csproj",
       "projectName": "NovenyManager",
-      "projectPath": "C:\\Users\\Kopocsy.Bence.Mate\\Desktop\\próbavizsga\\NovenyManagerAlap\\NovenyManager\\NovenyManager.csproj",
+      "projectPath": "C:\\Users\\Kopocsy.Bence.Mate\\Desktop\\próbavizsga\\frontend\\NovenyManagerAlap\\NovenyManager\\NovenyManager.csproj",
       "packagesPath": "C:\\Users\\Kopocsy.Bence.Mate\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kopocsy.Bence.Mate\\Desktop\\próbavizsga\\NovenyManagerAlap\\NovenyManager\\obj\\",
+      "outputPath": "C:\\Users\\Kopocsy.Bence.Mate\\Desktop\\próbavizsga\\frontend\\NovenyManagerAlap\\NovenyManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -114,7 +114,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.200"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -144,7 +144,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

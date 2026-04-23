@@ -15,15 +15,22 @@
         </Grid.ColumnDefinitions>
 
         <StackPanel Grid.Column="0" VerticalAlignment="Center" Margin="8,4">
-            
+            <TextBlock FontWeight="Bold" Text="{Binding Nev}"/>
+            <TextBlock Foreground="Gray" Text="{Binding Faj}"/>
         </StackPanel>
 
         <StackPanel Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">
-
+            <TextBlock  Text="{Binding LocsolasiIdoKoz}"/>
+        </StackPanel>
+        <StackPanel Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="{Binding UtolsoLocsolas, StringFormat={}{0:yyyy.MM.dd.}}"/>
         </StackPanel>
 
-        <StackPanel Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">
-
+        <StackPanel Grid.Column="3" VerticalAlignment="Center" Margin="8,4">
+            <Button Content="Locsol" 
+                    Command="{Binding DataContext.LocsolCommand, RelativeSource={RelativeSource AncestorType=Window}}" 
+                    CommandParameter="{Binding}"
+                    Padding="10,2"/>
         </StackPanel>
     </Grid>
 </UserControl>

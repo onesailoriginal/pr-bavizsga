@@ -11,5 +11,31 @@
             <ColumnDefinition Width="2*"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0">
+            <ScrollViewer>
+                <ItemsControl ItemsSource="{Binding Novenyek}">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <view:NovenyDisplay/>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </ScrollViewer>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1">
+            <Label FontWeight="Bold" Content="Új növény hozzáadása"/>
+            <Label Content="Név:"/>
+            <TextBox Text="{Binding UjNev}" />
+
+            <Label Content="Faj:"/>
+            <TextBox Text="{Binding UjFaj}" />
+
+            <Label Content="Locsolási időköz (nap):"/>
+            <TextBox Text="{Binding UjLocsolasiIdoKoz}" />
+            <Button Content="Hozzáadás" Command="{Binding NovenyHozzaadCommand}"/>
+        </StackPanel>
+        
     </Grid>
 </Window>

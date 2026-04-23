@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kEfvXYZVgrc=",
+  "dgSpecHash": "fK/5SYky45g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kopocsy.Bence.Mate\\Desktop\\próbavizsga\\NovenyManagerAlap\\NovenyManager\\NovenyManager.csproj",
+  "projectFilePath": "C:\\Users\\Kopocsy.Bence.Mate\\Desktop\\próbavizsga\\frontend\\NovenyManagerAlap\\NovenyManager\\NovenyManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kopocsy.Bence.Mate\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512"
   ],

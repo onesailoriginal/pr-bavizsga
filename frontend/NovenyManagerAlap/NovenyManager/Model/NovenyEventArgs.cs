@@ -8,6 +8,10 @@ namespace NovenyManager.Model
 {
     public class NovenyEventArgs : EventArgs
     {
-
+        public Noveny Noveny { get; }
+        public NovenyEventArgs(Noveny Noveny)
+        {
+            this.Noveny = Noveny;
+        }
     }
 }
